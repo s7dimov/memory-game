@@ -2,6 +2,9 @@
 
 A fun memory matching game built with React, TypeScript, PixiJS, and Tailwind CSS.
 
+![image](https://github.com/user-attachments/assets/68c52d86-606e-41b7-85ed-1cb3959ab68b)
+
+
 ## Features
 
 - 4x4 grid of animal emojis

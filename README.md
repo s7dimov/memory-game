@@ -50,7 +50,3 @@ npm run dev
 5. Keep matching pairs until you find all of them
 6. When all pairs are matched, you'll see a "Winner!" message
 7. Click "Try Again" to start a new game
-
-## License
-
-MIT 
